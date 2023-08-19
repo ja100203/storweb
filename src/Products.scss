@@ -1,0 +1,11 @@
+.product-title{
+    padding: 2.5rem;
+}
+.product-title h1{
+    font-size: 2rem;
+}
+.card{
+    padding: 2rem;
+    display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
