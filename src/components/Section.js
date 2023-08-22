@@ -1,5 +1,5 @@
 import React from 'react'
-import moduleName from 'module'
+/*import moduleName from 'module'*/
 import "@emotion/styled"
 import "@mui/icons-material"
 import "@emotion/react"
